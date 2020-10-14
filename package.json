@@ -1,0 +1,8 @@
+{
+“name”: “ZombieBot”,
+“version”: “1.0.0”,
+“description”: “ZombieBot is een SelfMade bot, zorgt voor assignable roles en levels!”,
+“main”: “bot.js”,
+“author”: “ChrisjeVisje#9709”,
+“dependencies”: {}
+}
